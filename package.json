@@ -1,0 +1,16 @@
+{
+  "name": "project_store_gostack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lukassabino/project_store_gostack.git",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
